@@ -1,0 +1,94 @@
+.p
+{
+
+    background-image:url(assets/bootstrap-5.3.2-dist/img/b8.jpg);
+    height: 550px;
+}
+.prof
+{
+    border-radius: 400px;
+    border: 3px solid blue;
+    box-shadow: 0px 0px 50px white;
+    margin: 50px ;
+    width: 200px ; 
+    height: 200px ;
+}
+.sof1
+{
+    text-shadow: 3px 5px 3px black;
+}
+h1
+{
+    color: white;
+    text-align: center;
+}
+h4{
+    text-shadow: 3px 5px 3px black;
+}
+.sof
+{
+    color: rgb(173, 173, 165);
+    text-align: center;
+    text-shadow: 3px 5px 3px black;
+}
+.wr1
+{
+    border: 2px solid black;
+    animation: wr1 1s infinite;
+}
+@keyframes wr1 {
+    50% {box-shadow: 0px 0px 50px blue;}
+}
+.wr2
+{
+    border: 2px solid black;
+    animation: wr2 1s infinite;
+}
+@keyframes wr2 {
+    50% {box-shadow: 0px 0px 50px green;}
+}
+.wr3
+{
+    border: 2px solid black;
+    animation: wr3 1s infinite;
+}
+@keyframes wr3 {
+    50% {box-shadow: 0px 0px 50px red;}
+}
+.bakso
+{
+    width: 17,5rem;
+    height: 17,5rem;
+}
+.subtitle
+{
+    margin: 20px 10px;
+}
+.warnabiru
+{
+    background-color: rgb(244, 139, 11);
+    padding-bottom: 3px;
+    height: 14cm;
+}
+.warnaabu
+{
+    background-color: #595f63;
+    padding-bottom: 1cm;
+}
+.a1
+{
+    border: 2px solid yellow;
+    padding: 20px;
+
+}
+.ct
+{
+    background-image:url(assets/bootstrap-5.3.2-dist/img/b0.jpg);
+    height: 12cm;
+    padding-bottom: 3px;
+    padding-top: 10px;
+}
+.sof1
+{
+    text-shadow: 3px 5px 3px rgb(200, 136, 210);
+}
